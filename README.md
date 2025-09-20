@@ -1,6 +1,8 @@
 <!-- Profile README for nothariharan -->
 
-<h1 align="center">Hi 👋, I'm Hariharan</h1>
+<p align="center">
+  <img src="https://fontmeme.com/permalink/250920/c06c3ddbefbfce88bfa40c39aff23126.png" alt="IT'S A ME, HARIHARAN!" />
+</p>
 <h3 align="center">🚀 Passionate Developer | Frontend • Backend • Deployment</h3>
 
 <!-- You can replace the below gif with any other of your choice -->
