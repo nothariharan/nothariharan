@@ -25,39 +25,66 @@
 
 ### 🖌️ Frontend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html" width="45"/> HTML  
-  <img src="https://skillicons.dev/icons?i=css" width="45"/> CSS  
-  <img src="https://skillicons.dev/icons?i=react" width="45"/> ReactJS  
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> TailwindCSS  
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=html" width="55"/><br>HTML
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=css" width="55"/><br>CSS
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=react" width="55"/><br>ReactJS
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="55"/><br>TailwindCSS
+  </div>
 </p>
 
 ### 🛠️ Backend  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> NodeJS  
-  <img src="https://skillicons.dev/icons?i=postgresql" width="45"/> SQL  
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>NodeJS
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>SQL
+  </div>
 </p>
 
 ### ☁️ Deployment & Cloud  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" width="45"/> Docker  
-  <img src="https://skillicons.dev/icons?i=vercel" width="45"/> Vercel  
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=docker" width="55"/><br>Docker
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=vercel" width="55"/><br>Vercel
+  </div>
 </p>
 
 ### 🔧 Development Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git" width="45"/> Git  
-  <img src="https://skillicons.dev/icons?i=github" width="45"/> GitHub  
-  <img src="https://skillicons.dev/icons?i=windows" width="45"/> Windows  
-  <img src="https://skillicons.dev/icons?i=idea" width="45"/> ASL (IDE/Tool)  
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=git" width="55"/><br>Git
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=github" width="55"/><br>GitHub
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=windows" width="55"/><br>Windows
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=idea" width="55"/><br>ASL
+  </div>
 </p>
 
 ### 🎨 Design & Prototyping  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" width="45"/> Figma  
-  <img src="https://skillicons.dev/icons?i=framer" width="45"/> Framer  
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=figma" width="55"/><br>Figma
+  </div>
+  <div align="center" style="display:inline-block; margin:10px">
+    <img src="https://skillicons.dev/icons?i=framer" width="55"/><br>Framer
+  </div>
 </p>
 
----
 
 ## 📊 GitHub Stats  
 
