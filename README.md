@@ -1,7 +1,7 @@
 <!-- Profile README for nothariharan -->
 
 <p align="center">
-  <img src="https://fontmeme.com/permalink/250920/a4ee602f581fe838b83c9a9f6a73d625.png" alt="IT'S A ME, HARIHARAN!" />
+  <img src="https://fontmeme.com/permalink/250920/ee8360150b303c05a90ddbfab390da0d.png" alt="IT'S A ME, HARIHARAN!" />
 </p>
 <h3 align="center">🚀 Passionate Developer | Frontend • Backend • Deployment</h3>
 
