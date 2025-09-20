@@ -78,10 +78,8 @@
 
 ## 🚀 Featured Projects  
 
-- 🔗 [Project 1](#) — Short description of what it does  
-- 🔗 [Project 2](#) — Another project description  
-- 🔗 [Project 3](#) — Add more later  
-
+- 🌱 [EcoTracker](https://github.com/nothariharan/EcoTracker) — A web platform built at HackOdisha 5.0 for shop owners and consumers to buy products, generate bills online, and earn **Eco Points**. Customers receive rewards and discounts for purchasing organic and eco-friendly items, promoting sustainable shopping.
+- 🎓 [EduGuard.AI](#) — A student analytics platform to monitor and prevent dropouts. Teachers (admin users) can track at-risk students based on attendance, fee payments, and performance. The system includes dashboards with interactive visualizations (pie charts, bar graphs), automated risk alerts, reports, and the ability to send notifications to parents — making early intervention easier and more effective.  
 ---
 
 <!-- Footer animation, change if you want -->
