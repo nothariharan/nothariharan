@@ -12,7 +12,10 @@
 
 ### 🌐 Connect with me
 <p align="left">
-<a href="https://github.com/nothariharan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/nothariharan" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://www.instagram.com/certified_hari/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
+
+
 <!-- Add more social links like LinkedIn, Twitter here -->
 </p>
 
