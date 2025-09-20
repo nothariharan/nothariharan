@@ -27,6 +27,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
   <img src="https://skillicons.dev/icons?i=react" width="45"/>  
   <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
 </p>
