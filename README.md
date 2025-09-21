@@ -57,7 +57,8 @@
 ### 🎨 Design & Prototyping  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=framer" width="45"/>   
+  <img src="https://skillicons.dev/icons?i=blender" width="45"/>
+  
 </p>
 
 ### 💻 Misc Programming Languages
