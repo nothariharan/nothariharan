@@ -60,6 +60,12 @@
   <img src="https://skillicons.dev/icons?i=framer" width="45"/>   
 </p>
 
+### 💻 Misc Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=c" width="45"/>   
+</p>
+
 
 ## 📊 GitHub Stats  
 
