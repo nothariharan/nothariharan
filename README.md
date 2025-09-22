@@ -67,6 +67,12 @@
   <img src="https://skillicons.dev/icons?i=c" width="45"/>   
 </p>
 
+### ✏️ Learning
+<p align="left">
+  <h3>Completing React,NodeJS,NextJS</h3>
+  <h3>Starting to learn ExpressJS MongoDB</h3>
+</p>
+
 
 ## 📊 GitHub Stats  
 
