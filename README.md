@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://fontmeme.com/permalink/250920/ee8360150b303c05a90ddbfab390da0d.png" alt="IT'S A ME, HARIHARAN!" />
 </p>
-<h3 align="center">🚀 Passionate Developer | Frontend • Backend • Deployment</h3>
+<h3 align="center">🚀 Passionate Developer | Frontend • Backend • Deployment | Exploring AI ML </h3>
 
 <!-- You can replace the below gif with any other of your choice -->
 <p align="center">
@@ -23,49 +23,39 @@
 
 ---
 
-## ⚡ Skills & Tools  
+## ⚡ Tech Stack
 
-### 🖌️ Frontend  
+### Languages and Framework
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="45"/>
   <img src="https://skillicons.dev/icons?i=css" width="45"/>
   <img src="https://skillicons.dev/icons?i=javascript" width="45"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="45"/>
   <img src="https://skillicons.dev/icons?i=react" width="45"/>  
-  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/> 
-</p>
-
-### 🛠️ Backend  
-<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="45"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=postgresql" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=postgresql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=py" width="45"/> 
+  <img src="https://skillicons.dev/icons?i=c" width="45"/> 
 </p>
 
 ### ☁️ Deployment & Cloud  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" width="45"/>  
-  <img src="https://skillicons.dev/icons?i=vercel" width="45"/> 
+  
 </p>
 
 ### 🔧 Development Tools  
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" width="45"/>  
+  <img src="https://skillicons.dev/icons?i=vercel" width="45"/> 
   <img src="https://skillicons.dev/icons?i=git" width="45"/> 
   <img src="https://skillicons.dev/icons?i=github" width="45"/>   
   <img src="https://skillicons.dev/icons?i=windows" width="45"/>   
   <img src="https://skillicons.dev/icons?i=vscode" width="45"/>   
-</p>
-
-### 🎨 Design & Prototyping  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=blender" width="45"/>
   
 </p>
 
-### 💻 Misc Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py" width="45"/> 
-  <img src="https://skillicons.dev/icons?i=c" width="45"/>   
-</p>
 
 ### ✏️ Learning
 <p align="left">
