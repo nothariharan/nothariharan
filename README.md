@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://fontmeme.com/permalink/250920/ee8360150b303c05a90ddbfab390da0d.png" alt="IT'S A ME, HARIHARAN!" />
 </p>
-<h3 align="center">🚀 Passionate Developer | Frontend • Backend • Deployment | Exploring AI ML </h3>
+<h3 align="center">🚀  Developer | Frontend • Backend • Deployment | Exploring AI ML </h3>
 
 <!-- You can replace the below gif with any other of your choice -->
 <p align="center">
