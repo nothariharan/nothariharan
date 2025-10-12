@@ -12,7 +12,7 @@
 
 ---
 
-### 🌐 Connect with me
+<h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect With Me</h2>
 <p align="left">
 <a href="https://github.com/nothariharan" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 <a href="https://www.instagram.com/certified_hari/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
@@ -23,7 +23,7 @@
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="left"><img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center">Tech Stack:</h2>
 
 ### Languages and Framework
 
@@ -61,22 +61,20 @@
 </p>
 
 
-## 📊 GitHub Stats  
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">    Github Stats:</h2>
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nothariharan&theme=tokyonight" />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nothariharan&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nothariharan&theme=tokyonight"  />
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nothariharan&theme=tokyonight"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=nothariharan&theme=midnight-purple" align="center" />
+</div>
 
-<!-- Replace gif below if you want another animated divider -->
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" alt="Stats gif"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nothariharan&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
+<h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">LeetCode Stat</h2>
+<img src="https://leetcard.jacoblin.cool/h4rih4ran?theme=dark&font=Fira%20Code" align="center" >
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nothariharan&theme=tokyonight" alt="GitHub streak"/>
-</p>
 
----
 
 ## 🚀 Featured Projects  
 
@@ -88,3 +86,4 @@
 <p align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="300" alt="Footer gif"/>
 </p>
+  <img src="https://komarev.com/ghpvc/?username=nothariharan" >
