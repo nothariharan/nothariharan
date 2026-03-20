@@ -15,7 +15,6 @@
 <h2><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60">Connect With Me</h2>
 <p align="left">
 <a href="https://github.com/nothariharan" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
-<a href="https://www.instagram.com/certified_hari/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
 
 
 <!-- Add more social links like LinkedIn, Twitter here -->
