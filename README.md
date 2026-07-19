@@ -20,32 +20,6 @@
 
 ```text
 undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of the crowd :) 
-
-Updated README — same voice, X in the lineup, newest builds on top, and JustAsk’s live link fixed (it was pointing at Mugen).
-
-```html
-<!-- Profile README for nothariharan -->
-
-<h1 align="center">yoo i am hariharan</h1>
-
-<p align="center">
-  application dev + ai & cloud infra + devops 
-</p>
-
-<p align="center">
-  <a href="https://github.com/nothariharan"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>
-  <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
-  <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
-  <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
-  <a href="https://leetcode.com/nothariharan"><img src="https://skillicons.dev/icons?i=leetcode" width="38"/></a>
-</p>
-
----
-
-### ?whoami
-
-```text
-undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of the crowd :) 
 ```
 
 ---
