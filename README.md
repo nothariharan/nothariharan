@@ -9,6 +9,33 @@
 <p align="center">
   <a href="https://github.com/nothariharan"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>
   <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
+  <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
+  <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
+  <a href="https://leetcode.com/nothariharan"><img src="https://skillicons.dev/icons?i=leetcode" width="38"/></a>
+</p>
+
+---
+
+### ?whoami
+
+```text
+undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of the crowd :) 
+
+Updated README — same voice, X in the lineup, newest builds on top, and JustAsk’s live link fixed (it was pointing at Mugen).
+
+```html
+<!-- Profile README for nothariharan -->
+
+<h1 align="center">yoo i am hariharan</h1>
+
+<p align="center">
+  application dev + ai & cloud infra + devops 
+</p>
+
+<p align="center">
+  <a href="https://github.com/nothariharan"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>
+  <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
+  <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
   <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
   <a href="https://leetcode.com/nothariharan"><img src="https://skillicons.dev/icons?i=leetcode" width="38"/></a>
 </p>
@@ -28,6 +55,11 @@ undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of
 > latest first. each one shipped, most of them at 3am.
 
 #### now
+- **[Scout](https://github.com/nothariharan/scout)** — voice agent that calls vendors, haggles with real quotes, and never spends your money. built for hack-nation #6. `elevenlabs · next.js · twilio` — [live](https://scout-dusky-six.vercel.app)
+- **[Slopmark](https://github.com/nothariharan/slopmark)** — honest ai slop detector. rule-based verifiers, no llm-as-judge nonsense. `next.js · openrouter` — [live](https://slopmark.vercel.app)
+- **[Crux](https://github.com/nothariharan/crux)** — deadline-first study os. upload the syllabus, get a mission plan that actually respects due dates. `next.js · supabase · inngest · bedrock`
+- **[Tecora](https://github.com/nothariharan/Tecora)** — folders for your ai chats. local-first extension so claude/chatgpt/gemini stop being a junk drawer. `wxt · react · dexie`
+- **[Certamen](https://github.com/nothariharan/certamen)** — live arena where models compete and the crowd backs a side. h0 × aws. `next.js · aurora dsql · dynamodb` — [live](https://web-theta-khaki-90.vercel.app)
 - **[monkeyspeak](https://github.com/nothariharan/monkeyspeak)** — voice typing speed benchmark. talk the talk, it clocks your wpm and filler words. `next.js · deepgram · supabase` — [live](https://monkeyspeak-delta.vercel.app)
 - **[CoFound](https://github.com/nothariharan/CoFound)** — an ai cofounder that actually shows up to standup. multi-agent founder OS. `fastapi · gemini 2.5 · google adk` — [live](https://cofounder-alpha.vercel.app)
 - **[SlopOS](https://github.com/nothariharan/SlopOS)** — what if an operating system was made entirely of slop? on purpose. `vanilla html/css/js, zero deps`
@@ -37,7 +69,7 @@ undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of
 - **[Mugen](https://github.com/nothariharan/Mugen)** — audits ai models for bias before the eu act has to. `fastapi · aif360 · fairlearn` — [live](https://mugen-flax.vercel.app/)
 - **[Visor](https://github.com/nothariharan/Visor)** — see your codebase, don't just read it. a visual OS for repos. `react flow · monaco · gemini`
 - **[Stitch N Sense](https://github.com/nothariharan/Stitch_N_Sense)** — surgical video edits — regenerate a clip, don't reshoot it. `bedrock nova pro · ffmpeg`
-- **[JustAsk](https://github.com/nothariharan/JustAsk)** — career roadmaps drawn as a metro map. `react · firebase · openrouter`  — [live](https://mugen-flax.vercel.app/)
+- **[JustAsk](https://github.com/nothariharan/JustAsk)** — career roadmaps drawn as a metro map. `react · firebase · openrouter`  — [live](https://justask-one.vercel.app/)
 
 #### civic tech, india
 - **[Bharat Seva](https://github.com/nothariharan/Bharat_Seva)** — ai civic assistant for rural india, in any language. `react · node · bedrock`  — [live](https://bharat-front.vercel.app/)
