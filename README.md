@@ -7,11 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nothariharan"><img src="https://skillicons.dev/icons?i=github" width="38"/></a>
   <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
   <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
   <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
-  <a href="https://hariharann.me"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="38" alt="portfolio"/></a>
+  <a href="https://hariharann.me"><img src="https://api.iconify.design/mdi:web.svg?color=%94a3b8" width="38" height="38" alt="portfolio"/></a>
 </p>
 
 ---
@@ -64,7 +63,7 @@ i do open source when im bored — sometimes it even lands in places like openai
 
 sometimes i poke at other people's codebases instead of starting another side project.
 
-recent bits: a session-history fix that landed in <a href="https://github.com/openai/openai-agents-python/pull/4298"><img src="https://cdn.simpleicons.org/openai/412991" height="18" alt="OpenAI"/></a> and several other oss on <a href="https://github.com/mem0ai/mem0/pull/6851"><img src="https://github.com/mem0ai.png" height="18" alt="Mem0"/></a> , <a href="https://github.com/Graphify-Labs/graphify/pull/2422"><img src="https://github.com/Graphify-Labs.png" height="18" alt="Graphify"/></a> . nothing fancy — just fixing sharp edges when i have spare cycles.
+recent bits: a session-history fix that landed in <a href="https://github.com/openai/openai-agents-python/pull/4298"><img src="https://github.com/openai.png" height="18" alt="OpenAI"/></a> and several other oss on <a href="https://github.com/mem0ai/mem0/pull/6851"><img src="https://github.com/mem0ai.png" height="18" alt="Mem0"/></a> , <a href="https://github.com/Graphify-Labs/graphify/pull/2422"><img src="https://github.com/Graphify-Labs.png" height="18" alt="Graphify"/></a> . nothing fancy — just fixing sharp edges when i have spare cycles.
 
 ---
 
