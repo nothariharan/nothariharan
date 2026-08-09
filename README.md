@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
   <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
   <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
-  <a href="https://hariharann.me"><img src="https://api.iconify.design/mdi:web.svg?color=%94a3b8" width="38" height="38" alt="portfolio"/></a>
+  <a href="https://hariharann.me"><img src="./assets/web.svg" width="38" height="38" alt="portfolio"/></a>
 </p>
 
 ---
