@@ -19,7 +19,7 @@
 
 ```text
 undergraduate ; constantly building ( breaking as well ) ; trying to be ahead of the crowd :)
-i do open source when im bored — sometimes it even lands in places like openai's agents sdk
+i do open source when im bored
 ```
 
 ---
