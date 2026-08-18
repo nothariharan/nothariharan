@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
-  <a href="https://x.com/n0thar1"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a>
-  <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38"/></a>
-  <a href="https://hariharann.me"><img src="./assets/web.svg" width="38" height="38" alt="portfolio"/></a>
+  <a href="https://www.linkedin.com/in/nmhariharan/"><img src="https://skillicons.dev/icons?i=linkedin" width="38" height="38" alt="linkedin"/></a>
+  <a href="https://x.com/lazyclaude"><img src="https://skillicons.dev/icons?i=twitter" width="38" height="38" alt="x"/></a>
+  <a href="mailto:nothariharan@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="38" height="38" alt="email"/></a>
+  <a href="https://hariharann.me"><img src="./assets/web.png" width="38" height="38" alt="portfolio"/></a>
 </p>
 
 ---
@@ -32,8 +32,8 @@ i do open source when im bored
 - **[Scout](https://github.com/nothariharan/scout)** — voice agent that calls vendors, haggles with real quotes, and never spends your money. hack-nation #6 (shortlisted). `elevenlabs · next.js · twilio` · [live](https://scout-dusky-six.vercel.app) · [demo](https://youtu.be/cHvuw8kAqKQ)
 - **[Compasso](https://github.com/nothariharan/compasso)** — gift shopping agent that actually finishes checkout. pulled 20+ wishlist signups before the hackathon even closed. `next.js · prava · supabase` · [live](https://compasso-lime.vercel.app)
 - **[Crux](https://github.com/nothariharan/crux)** — deadline-first study os. upload the syllabus, get a mission plan that actually respects due dates. `next.js · supabase · inngest`
-- **[Tecora](https://github.com/nothariharan/Tecora)** — folders for your ai chats. local-first extension so claude/chatgpt/gemini stop being a junk drawer. chrome web store pack in review. `wxt · react · dexie`
-- **[image-gen](https://github.com/nothariharan/image-gen)** — mcp paintbrush for coding agents. chatgpt image gen over the browser, no openai api key. `mcp · playwright · edge`
+- **[Tecora](https://github.com/nothariharan/Tecora)** — folders for your ai chats. local-first extension so claude/chatgpt/gemini stop being a junk drawer. 10+ users on the chrome web store, 70+ downloads. `wxt · react · dexie` · [live](https://chromewebstore.google.com/detail/tecora/ihagfljacjognebfcmcmcbddjlonpifn)
+- **[image-gen](https://github.com/nothariharan/image-gen)** — mcp paintbrush for coding agents. chatgpt image gen over the browser, no openai api key. 100+ users actually generating with it. `mcp · playwright · edge` · [live](https://web-2b3c-3000.prg1.zerops.app/)
 - **[Slopmark](https://github.com/nothariharan/slopmark)** — honest ai slop detector. rule-based verifiers, no llm-as-judge nonsense. `next.js · openrouter` · [live](https://slopmark.vercel.app)
 - **[Certamen](https://github.com/nothariharan/certamen)** — live arena where models compete and the crowd backs a side. h0 x aws. `next.js · aurora dsql · dynamodb` · [live](https://web-theta-khaki-90.vercel.app)
 - **[monkeyspeak](https://github.com/nothariharan/monkeyspeak)** — voice typing speed benchmark. talk the talk, it clocks your wpm and filler words. `next.js · deepgram · supabase` · [live](https://monkeyspeak-delta.vercel.app)
@@ -61,9 +61,9 @@ i do open source when im bored
 
 ### when bored
 
-sometimes i poke at other people's codebases instead of starting another side project.
+sometimes i poke at other codebases instead of starting 6700th side project :DD
 
-recent bits: a session-history fix that landed in <a href="https://github.com/openai/openai-agents-python/pull/4298"><img src="https://github.com/openai.png" height="18" alt="OpenAI"/></a> and several other oss on <a href="https://github.com/mem0ai/mem0/pull/6851"><img src="https://github.com/mem0ai.png" height="18" alt="Mem0"/></a> , <a href="https://github.com/Graphify-Labs/graphify/pull/2422"><img src="https://github.com/Graphify-Labs.png" height="18" alt="Graphify"/></a> . nothing fancy — just fixing sharp edges when i have spare cycles.
+recently : a session-history fix that landed in <a href="https://github.com/openai/openai-agents-python/pull/4298"><img src="https://github.com/openai.png" height="18" alt="OpenAI"/></a>, a binary skill-assets fix that landed in <a href="https://github.com/google/adk-js/pull/644"><img src="https://github.com/google.png" height="18" alt="Google"/></a>, a post-checkout hook fix that shipped in <a href="https://github.com/Graphify-Labs/graphify/pull/2422"><img src="https://github.com/Graphify-Labs.png" height="18" alt="Graphify"/></a>, and more open work on lot other huge orgs <a href="https://github.com/mem0ai/mem0/pull/6851"><img src="https://github.com/mem0ai.png" height="18" alt="Mem0"/></a> <a href="https://github.com/foss42/apidash"><img src="https://github.com/foss42.png" height="18" alt="foss42"/></a> <a href="https://github.com/ruxailab"><img src="https://github.com/ruxailab.png" height="18" alt="RUXAILAB"/></a>
 
 ---
 
